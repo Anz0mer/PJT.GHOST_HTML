@@ -1,2 +1,3 @@
-# Ghost_Loader
-Ghost Loader with HTML and CSS
+# PROJETINHO PARA AUMENTAR O PORTIFÓLIO
+
+Ghost Loader em CSS e HTML 😊
